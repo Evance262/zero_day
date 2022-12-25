@@ -1,3 +1,1 @@
-This file is mandatory in all ALX School projects.
-
-Project is available at [a link][1] [1]: https://github.com/Evans262/alx-system_engineering-devops "Title"
+Hello Virtual Machine <img width="75px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/ubuntu-icon.svg" alt="Ubuntu Icon" width="40" height="40"/>
